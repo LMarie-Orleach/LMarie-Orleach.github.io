@@ -1,6 +1,3 @@
-# Lucas Marie-Orleach
-# Evolutionary Biologist
-
 <nav>
   <ul>
     <li><a href="/research/">Research</a></li>
@@ -8,6 +5,10 @@
     <li><a href="/Publications/">Publications</a></li>
   </ul>
 </nav>
+
+# Lucas Marie-Orleach
+Evolutionary Biologist
+
 
 ## Welcome to GitHub Pages
 
