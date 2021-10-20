@@ -1,6 +1,11 @@
+# Lucas Marie-Orleach
+# Evolutionary Biologist
+
 <nav>
   <ul>
     <li><a href="/research/">Research</a></li>
+    <li><a href="/CV/">CV</a></li>
+    <li><a href="/Publications/">Publications</a></li>
   </ul>
 </nav>
 
