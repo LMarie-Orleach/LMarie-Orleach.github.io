@@ -1,3 +1,5 @@
+title: [The title of your site]
+
 <nav>
   <ul>
     <li><a href="/research/">Research</a></li>
