@@ -6,7 +6,7 @@
   </ul>
 </nav>
 
-[I'm a relative reference to a repository file](/reseach.md)
+[I'm a relative reference to a repository file](/research.md)
 
 # Lucas Marie-Orleach
 Evolutionary Biologist
