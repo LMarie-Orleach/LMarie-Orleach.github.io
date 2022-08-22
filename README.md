@@ -1,6 +1,6 @@
 - [Research](/research.md)
-- [CV](/CV.md)
-- [Publication](/publication.md)
+- [CV](/cv.md)
+- [Publication](/publications.md)
 
 # Lucas Marie-Orleach
 Evolutionary Biologist
