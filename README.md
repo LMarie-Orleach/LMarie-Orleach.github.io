@@ -6,6 +6,8 @@
   </ul>
 </nav>
 
+[I'm a relative reference to a repository file](../reseach.md)
+
 # Lucas Marie-Orleach
 Evolutionary Biologist
 
