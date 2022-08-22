@@ -1,6 +1,6 @@
 <nav>
   <ul>
-    <li><a href="/research.md/">Research</a></li>
+    <li>[Research](/research.md)</li>
     <li><a href="/CV/">CV</a></li>
     <li><a href="/Publications/">Publications</a></li>
   </ul>
