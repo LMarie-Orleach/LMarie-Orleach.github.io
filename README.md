@@ -1,7 +1,3 @@
----
-title: Lucas Marie-Orleach
----
-
 - [Research](/research.md)
 - [CV](/cv.md)
 - [Publications](/publications.md)
