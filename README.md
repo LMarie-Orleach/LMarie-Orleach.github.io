@@ -1,5 +1,3 @@
-title: <LMarie-Orleach.github.io>
-
 - [Research](/research.md)
 - [CV](/cv.md)
 - [Publications](/publications.md)
