@@ -6,9 +6,9 @@
   </ul>
 </nav>
 
-[Research](/research.md)
-[CV](/CV.md)
-[Publication](/publication.md)
+- [Research](/research.md)
+- [CV](/CV.md)
+- [Publication](/publication.md)
 
 # Lucas Marie-Orleach
 Evolutionary Biologist
