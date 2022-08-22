@@ -1,3 +1,4 @@
+---
 sidebar:
   - title: "Title"
     image: "/assets/images/your-image.jpg"
@@ -6,7 +7,7 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
-
+---
 
 - [Research](/research.md)
 - [CV](/cv.md)
